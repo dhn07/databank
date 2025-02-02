@@ -1,5 +1,7 @@
 ### Data Bank Case Study
 
+![image](https://github.com/user-attachments/assets/ef20b60a-5551-40b6-b5ad-79a139bd3fa3)
+
 In this case study, I will conduct some data analysis on Data Bank, a digital bank with customers, nodes and transactions. I will answer a set of important questions below using SQL.
 This was originally sourced from the [8-week SQL challenge.](https://8weeksqlchallenge.com/case-study-4/) by Danny Ma.
 Feel free to contact me on my [LinkedIn](https://www.linkedin.com/in/dhn07/) for any enquiries.
